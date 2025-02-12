@@ -16,15 +16,17 @@ KEY FEATURES:
 - Stores coordinates in memory during recording session
 
 2. Playback Modes
-Play: Execute recorded clicks once (1 second between actions)
-Loop: Continuously repeat recorded clicks (3-second cooldown between loops)
-Press G key to stop any playback
+- Play: Execute recorded clicks once (1 second between actions)
+- Loop: Continuously repeat recorded clicks (3-second cooldown between loops)
+- Press G key to stop any playback
 
 USAGE:
 Install dependencies:
+
 ```pip install pynput```
 
 Run the program:
+
 ```python mouse_controller.py```
 
 CONTROL FLOW:
