@@ -42,3 +42,6 @@ IMPLEMENTATION NOTES:
 - Delay timing (1s/3s) can be modified in code
 - Requires window focus for keyboard shortcuts
 - May need admin privileges depending on OS
+
+PlantUML diagram for the code:
+![image](https://github.com/user-attachments/assets/6b317e34-9b00-48fe-9c04-548013d691dc)
